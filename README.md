@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Qusai Etawi</h1>
-<h3 align="center">Software Developer | Tech Enthusiast | Problem Solver</h3>
+<!-- Stylish intro section with typing effect -->
+
+<h1 align="center">👋 Hello World, I'm <span style="color:#00BFFF;">Qusai Etawi</span></h1>
+<h3 align="center">💻 Software Developer | 🚀 Tech Explorer | 🎯 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+Qusai+Etawi+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Always+learning+something+new+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Passionate+about+technology+%F0%9F%92%BB;Crafting+code+with+purpose+%F0%9F%96%A5%EF%B8%8F;Always+learning+something+new+%F0%9F%93%9A;Welcome+to+my+GitHub+profile+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
+
 
 ---
 
